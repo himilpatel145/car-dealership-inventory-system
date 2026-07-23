@@ -61,6 +61,11 @@ This project is built using the MERN stack with JWT authentication and a respons
 - Manage inventory
 
 
+## API Endpoint Note
+
+The project implements vehicle inventory functionality using the /api/cars endpoint.
+This provides CRUD operations, authentication, and enquiry management.
+
 ---
 
 # Project Structure
